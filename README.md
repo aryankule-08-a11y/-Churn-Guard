@@ -5,6 +5,9 @@ A modern, end-to-end **Customer Churn Prediction Web App** built with **Streamli
 ![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B?logo=streamlit)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.3+-F7931E?logo=scikit-learn)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-ChurnGuard-6366f1?style=for-the-badge)](https://churnguardx.streamlit.app/)
+
+### 🌐 [**Live Demo → churnguardx.streamlit.app**](https://churnguardx.streamlit.app/)
 
 ---
 
